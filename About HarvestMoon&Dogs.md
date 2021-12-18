@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarvestMoonDogs
 - 📫 Read Here For About This HarvestMoon&Dogs
 
-<!---
 What is $HMD?
 
 HMD Token is released to be the flagship token of The HarvestMoon&Dogs Project running on CronosChain (Cro) Network. The idea of the fairest ecosystem is the starting point of HarvestMoon&Dogs Project, and $HMD Token is planned to be at the center of this ecosytem. $HMD Token is to be used for crypto investment tools such as;
@@ -20,4 +19,3 @@ Introduction of HarvestMoon&Dogs
 What is HarvestMoon&Dogs?
 
 HarvestMoon&Dogs is a community driven cryptocurrency on the CronosChain network. Our first intention is to be the premier community token and symbol of the Cronos ecosystem. Another purpose of HarvestMoon&Dogs is to bring the Human & Animal breed to the point it deserves among other meme tokens. Also HarvestMoon&Dogs.
---->
