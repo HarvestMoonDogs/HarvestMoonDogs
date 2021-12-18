@@ -19,3 +19,12 @@ Introduction of HarvestMoon&Dogs
 What is HarvestMoon&Dogs?
 
 HarvestMoon&Dogs is a community driven cryptocurrency on the CronosChain network. Our first intention is to be the premier community token and symbol of the Cronos ecosystem. Another purpose of HarvestMoon&Dogs is to bring the Human & Animal breed to the point it deserves among other meme tokens. Also HarvestMoon&Dogs.
+
+Details Token :
+
+Name : HarvestMoon&Dogs 
+Symbol : HMD
+Decimal : 18 
+Supply : 2B
+
+Contract : 0x1ccc97e18FB78848D3fF658CD77b2B4E425bE99C
