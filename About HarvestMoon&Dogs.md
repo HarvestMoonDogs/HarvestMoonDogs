@@ -24,7 +24,7 @@ Details Token :
 
 Name : HarvestMoon&Dogs 
 Symbol : HMD
-Decimal : 18 
+Decimal : 9 
 Supply : 2B
 
 Contract : 0x1ccc97e18FB78848D3fF658CD77b2B4E425bE99C
